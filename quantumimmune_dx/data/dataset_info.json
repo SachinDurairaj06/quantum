@@ -1,0 +1,40 @@
+{
+  "total_samples": 180,
+  "n_features": 18,
+  "disease_distribution": {
+    "Healthy": 30,
+    "Rheumatoid_Arthritis": 30,
+    "Systemic_Lupus_Erythematosus": 30,
+    "Type_1_Diabetes": 30,
+    "Hashimoto_Thyroiditis": 30,
+    "Graves_Disease": 30
+  },
+  "feature_names": [
+    "Age",
+    "Sex",
+    "CRP",
+    "ESR",
+    "RF",
+    "Anti_CCP",
+    "ANA_titer",
+    "Anti_dsDNA",
+    "Complement_C3",
+    "TSH",
+    "Anti_TPO",
+    "Fasting_Glucose",
+    "Anti_tTG",
+    "HLA_B27",
+    "Joint_pain",
+    "Fatigue",
+    "GI_symptom",
+    "Skin_lesion"
+  ],
+  "disease_list": [
+    "Graves_Disease",
+    "Hashimoto_Thyroiditis",
+    "Healthy",
+    "Rheumatoid_Arthritis",
+    "Systemic_Lupus_Erythematosus",
+    "Type_1_Diabetes"
+  ]
+}

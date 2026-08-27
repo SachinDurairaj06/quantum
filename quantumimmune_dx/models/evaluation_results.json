@@ -1,0 +1,17 @@
+{
+  "qsvm": {
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9442501942501943,
+    "model_type": "Simulated QSVM"
+  },
+  "random_forest": {
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "model_type": "Random Forest"
+  },
+  "svm_classical": {
+    "accuracy": 0.9444444444444444,
+    "f1_score": 0.9442501942501943,
+    "model_type": "Classical SVM (RBF)"
+  }
+}
